@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/bizpage-bootstrap-business-template/
+Este site pertece a NETEG Lda. para mais informções contacte-nos pelos números +258 842155677.
